@@ -1,0 +1,5 @@
+npm init --yes
+npm install express --vase
+npm install -g nodemon
+npx nodemon
+WPS: Set-ExecutionPolicy Unrestricted -Scope CurrentUser
